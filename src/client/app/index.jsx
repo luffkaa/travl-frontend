@@ -5,6 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 
 import './scss/style.sass';
+import 'mapbox-gl/dist/mapbox-gl.css'
 
 ReactDOM.render((
   <BrowserRouter>
