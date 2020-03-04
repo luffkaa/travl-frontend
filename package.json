@@ -19,13 +19,20 @@
   },
   "homepage": "https://github.com/luffkaa/front-trvl.git#readme",
   "dependencies": {
+    "nuka-carousel": "^4.5.8",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-exif-orientation-img": "^0.1.5",
+    "react-fix-image-orientation": "^0.1.4",
+    "react-geolocated": "^2.5.0",
+    "react-map-gl": "^5.0.3",
     "react-md-spinner": "^0.3.0",
     "react-responsive-carousel": "^3.1.47",
     "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "react-svg": "^10.0.9",
+    "react-transition-group": "^4.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
